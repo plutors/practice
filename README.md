@@ -1,2 +1,2 @@
 # python
-practice
+algorithms practice
